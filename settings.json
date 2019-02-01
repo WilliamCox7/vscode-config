@@ -1,27 +1,27 @@
 {
-  "workbench.colorTheme": "One Dark Pro Vivid",
-  "workbench.startupEditor": "newUntitledFile",
-  "editor.tabSize": 2,
-  "window.zoomLevel": 0,
-  "files.exclude": {
-      "**/.git": true,
-      "**/.svn": true,
-      "**/.hg": true,
-      "**/CVS": true,
-      "**/.DS_Store": true,
-      "**/package-lock.json": true
-  },
-  "editor.colorDecorators": false,
-  "editor.dragAndDrop": false,
-  "editor.matchBrackets": false,
-  "editor.quickSuggestions": {
-      "other": false,
-      "comments": false,
-      "strings": false
-  },
-  "editor.scrollBeyondLastLine": false,
-  "editor.suggestOnTriggerCharacters": false,
-  "editor.parameterHints.enabled": false,
-  "editor.lightbulb.enabled": false,
-  "bracketPairColorizer.showHorizontalScopeLine": false
+    "workbench.colorTheme": "Loyal Contrast (rainglow)",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/package-lock.json": true
+    },
+    "editor.colorDecorators": false,
+    "editor.dragAndDrop": false,
+    "editor.matchBrackets": false,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.scrollBeyondLastLine": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.parameterHints.enabled": false,
+    "editor.lightbulb.enabled": false,
+    "bracketPairColorizer.showHorizontalScopeLine": false
 }
