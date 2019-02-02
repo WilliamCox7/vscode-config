@@ -26,5 +26,5 @@
   "editor.lightbulb.enabled": false,
   "bracketPairColorizer.showHorizontalScopeLine": false,
   "autoprefixer.formatOnSave": true,
-  "window.nativeTabs": false
+  "window.nativeTabs": true
 }
