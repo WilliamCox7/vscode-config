@@ -1,6 +1,7 @@
 {
     "workbench.colorTheme": "Loyal Contrast (rainglow)",
     "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-icons",
     "editor.tabSize": 2,
     "window.zoomLevel": 0,
     "files.exclude": {
@@ -23,5 +24,7 @@
     "editor.suggestOnTriggerCharacters": false,
     "editor.parameterHints.enabled": false,
     "editor.lightbulb.enabled": false,
-    "bracketPairColorizer.showHorizontalScopeLine": false
+    "bracketPairColorizer.showHorizontalScopeLine": false,
+    "autoprefixer.formatOnSave": true,
+    "window.nativeTabs": true
 }
