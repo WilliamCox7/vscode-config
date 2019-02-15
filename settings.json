@@ -26,5 +26,8 @@
   "editor.lightbulb.enabled": false,
   "bracketPairColorizer.showHorizontalScopeLine": false,
   "autoprefixer.formatOnSave": true,
-  "window.nativeTabs": true
+  "search.usePCRE2": true,
+  "window.newWindowDimensions": "fullscreen",
+  "window.nativeTabs": true,
+  "window.openFilesInNewWindow": "on"
 }
