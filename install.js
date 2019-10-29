@@ -1,5 +1,6 @@
 const exec = require('child_process').execSync;
 const fs = require('fs');
+const path = require('path');
 
 if (process.argv.length >= 2) {
   let direction = process.argv[2];
@@ -46,7 +47,7 @@ function pullExtensionsDown() {
 
 function pullSettingsDown() {
   let remoteSettings = require('./settings.json');
-  fs.writeFileSync(require('./config').settingsPath, JSON.stringify(remoteSettings, 'utf8', 2));
+  fs.writeFileSync(path.normalize(require('./config').settingsPath), JSON.stringify(remoteSettings, 'utf8', 2));
   console.log('Pulled Remote Settings To Local');
 }
 
