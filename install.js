@@ -17,8 +17,13 @@ function up() {
 
 function down() {
   console.log('Pulling Visual Studio Code Preferences Down');
+  pullFromGitHub();
   pullExtensionsDown();
   pullSettingsDown();
+}
+
+function pullFromGitHub() {
+  exec(`git pull`);
 }
 
 function pushExtensionsUp() {
