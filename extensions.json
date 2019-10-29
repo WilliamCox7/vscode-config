@@ -1,8 +1,10 @@
 [
+  "bajdzis.vscode-database",
+  "bwildeman.tabulous",
   "CoenraadS.bracket-pair-colorizer",
   "daylerees.rainglow",
   "mgmcdermott.vscode-language-babel",
   "mrmlnc.vscode-autoprefixer",
   "mrmlnc.vscode-duplicate",
-  "robertohuertasm.vscode-icons"
+  "vscode-icons-team.vscode-icons"
 ]

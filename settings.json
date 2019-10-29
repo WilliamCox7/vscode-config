@@ -26,5 +26,8 @@
   "editor.lightbulb.enabled": false,
   "bracketPairColorizer.showHorizontalScopeLine": false,
   "autoprefixer.formatOnSave": true,
-  "window.nativeTabs": true
+  "window.nativeTabs": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "vsicons.dontShowNewVersionMessage": true,
+  "tabulous.activeTabColor": "purple"
 }
