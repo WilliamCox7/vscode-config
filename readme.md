@@ -2,7 +2,8 @@ When you clone this repo, create a config.js file exporting the settingsPath var
 
 ex: 
 `module.exports = {
-  settingsPath: '/path/to/settings.json'
+  settingsPath: '/Users/\[user\]/path/to/settings.json',
+  keybindingsPath: '/Users/\[user\]/path/to/keybindings.json'
 }`
 
 Run `code --list-extensions` to list all of the currently installed and enabled extensions
