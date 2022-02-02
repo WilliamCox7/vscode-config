@@ -1,16 +1,14 @@
 {
-  "workbench.colorTheme": "Loyal Contrast (rainglow)",
+  "workbench.colorTheme": "Tickle Contrast (rainglow)",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.iconTheme": "vscode-icons",
   "editor.tabSize": 2,
-  "window.zoomLevel": 0,
   "files.exclude": {
-    "**/.git": true,
-    "**/.svn": true,
-    "**/.hg": true,
-    "**/CVS": true,
     "**/.DS_Store": true,
-    "**/package-lock.json": true
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/CVS": true
   },
   "editor.colorDecorators": false,
   "editor.dragAndDrop": false,
@@ -29,5 +27,14 @@
   "window.nativeTabs": true,
   "javascript.updateImportsOnFileMove.enabled": "never",
   "vsicons.dontShowNewVersionMessage": true,
-  "tabulous.activeTabColor": "purple"
+  "tabulous.activeTabColor": "purple",
+  "workbench.editor.untitled.hint": "hidden",
+  "security.workspace.trust.untrustedFiles": "open",
+  "update.mode": "manual",
+  "update.showReleaseNotes": false,
+  "editor.hover.delay": 600,
+  "editor.hover.enabled": true,
+  "bracketPairColorizer.depreciation-notice": false,
+  "eslint.format.enable": true,
+  "terminal.integrated.fontFamily": "MesloLGS NF"
 }

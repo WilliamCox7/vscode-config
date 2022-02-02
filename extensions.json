@@ -3,8 +3,10 @@
   "bwildeman.tabulous",
   "CoenraadS.bracket-pair-colorizer",
   "daylerees.rainglow",
+  "dbaeumer.vscode-eslint",
   "mgmcdermott.vscode-language-babel",
   "mrmlnc.vscode-autoprefixer",
   "mrmlnc.vscode-duplicate",
+  "teabyii.ayu",
   "vscode-icons-team.vscode-icons"
 ]
